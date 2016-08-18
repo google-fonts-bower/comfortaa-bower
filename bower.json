@@ -1,0 +1,17 @@
+{
+    "name": "comfortaa-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Johan Aakerlund"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/comfortaa-bower.git"
+    },
+    "description": "Comfortaa font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
